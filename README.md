@@ -1,3 +1,4 @@
+<img src="./github-cover.png" alt="">
 <h1 align="center">Hi 👋, I'm Sheikh Kiron</h1>
 <h3 align="center">"Full Stack Developer | Freelancer | Problem Solver"</h3>
 
